@@ -1,0 +1,8 @@
+IndentWidth: 4
+BreakBeforeBraces: Custom
+NamespaceIndentation: All
+BinPackArguments: false
+SpaceBeforeCpp11BracedList: true
+Cpp11BracedListStyle: false
+BreakTemplateDeclarations: Yes
+# BracketAlignmentStyle: BlockIndent
